@@ -1,0 +1,14 @@
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+c:\Users\gusta\OneDrive\OpenBootCamp\C# by Microsoft\C# Part 2 by Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
