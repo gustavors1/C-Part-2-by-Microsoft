@@ -24,3 +24,12 @@ int roll3 = dice2.Next(50, 101);
 Console.WriteLine($"First roll: {roll1}");
 Console.WriteLine($"Second roll: {roll2}");
 Console.WriteLine($"Third roll: {roll3}");
+
+// Ejercicio
+// Busque un método de la clase System.Math que devuelva el mayor de dos números.
+
+int firstValue = 500;
+int secondValue = 600;
+int largerValue;
+largerValue = Math.Max(firstValue, secondValue);
+Console.WriteLine(largerValue);
