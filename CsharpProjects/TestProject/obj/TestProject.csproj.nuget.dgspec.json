@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "c:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "c:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "c:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "c:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "c:\\Users\\gusta\\OneDrive\\OpenBootCamp\\C# by Microsoft\\C# Part 2 by Microsoft\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

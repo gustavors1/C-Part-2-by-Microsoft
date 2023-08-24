@@ -43,6 +43,10 @@ int roll4 = dice3.Next(1, 7);
 int roll5 = dice3.Next(1, 7);
 int roll6 = dice3.Next(1, 7);
 
+roll4 = 6;
+roll5 = 6;
+roll3 = 5;
+
 int total = roll4 + roll5 + roll6;
 
 Console.WriteLine($"Dice roll: {roll4} + {roll5} + {roll6} = {total}");
@@ -52,38 +56,44 @@ Incorporación de otra instrucción if para implementar puntos extra por obtener
 */
 
 if ((roll4 == roll5) || (roll5 == roll6) || (roll4 == roll6)) // condición compuesta. 
+{
 /*
 Los caracteres de barra vertical || son el operador O lógico, 
 que básicamente indica “la expresión a la izquierda O la expresión 
 a la derecha deben ser verdaderas para que toda la expresión booleana sea verdadera”.
 */
-
-{
-    Console.WriteLine("You rolled doubles! +2 bonus to total!");
-    total += 2;
+    if ((roll4 == roll5) && (roll4 == roll5)) // Y lógico, que básicamente indica “solo si ambas expresiones son verdaderas, la expresión completa es verdadera”.
+    {
+        Console.WriteLine("You rolled doubles! +2 bonus to total!");
+        total += 2;
+    }
+    else
+    {
+        Console.WriteLine("You rolled triples! +6 bonus to total!");
+        total += 6;
+    }
 }
-
-// Extra por triples
-
-if ((roll4 == roll5) && (roll5 == roll6)) // Y lógico, que básicamente indica “solo si ambas expresiones son verdaderas, la expresión completa es verdadera”.
-{
-    Console.WriteLine("You rolled triples! +6 bonus to total!");
-    total += 6;
-}
-
 /*
 Incorporación de una instrucción if para mostrar diferentes mensajes 
 según el valor de la variable total
 */
 
-if (total >= 15)
+if (total >= 16)
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine("You win a new car!");
 }
 
-if (total < 15)
+else if (total >= 10)
 {
-    Console.WriteLine("Sorry, you lose");
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total == 7)
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else
+{
+    Console.WriteLine("You win a Kitten");
 }
 
 // Incorporación de otra instrucción if para implementar los puntos extra por obtener triples.
